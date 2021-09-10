@@ -1,4 +1,4 @@
-![Image of explorer pane from VS Code](https://imgur.com/a/Zh7PIEM)
+![Image of explorer pane from VS Code](https://i.imgur.com/Yr6teUA.png)
 
 # dev-environment-lab
 
