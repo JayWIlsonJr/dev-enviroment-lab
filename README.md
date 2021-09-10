@@ -1,3 +1,5 @@
+![Image of explorer pane from VS Code](https://imgur.com/a/Zh7PIEM)
+
 # dev-environment-lab
 
 ## OS
